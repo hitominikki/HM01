@@ -1,1 +1,8 @@
-# HM01
+# About this project
+Project Code Name: HM01
+
+Project Name: Akira Deterioration
+
+Initialization: 4/14/25
+
+Public Initialization: 12/19/25
