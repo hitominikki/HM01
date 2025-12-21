@@ -3,6 +3,4 @@ Project Code Name: HM01
 
 Project Name: (uncertain)
 
-Initialization: 4/14/25
-
-Public Initialization: 12/19/25
+Project Initialization: 4/14/24
